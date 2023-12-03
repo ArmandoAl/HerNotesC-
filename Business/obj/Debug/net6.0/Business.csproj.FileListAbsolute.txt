@@ -1,0 +1,52 @@
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Data.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Domain.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\bin\Debug\net6.0\Domain.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Business.deps.json
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Business.runtimeconfig.json
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Business.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Business.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Data.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Domain.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Data.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\bin\Debug\net6.0\Domain.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.csproj.CopyComplete
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\refint\Business.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Business\obj\Debug\net6.0\ref\Business.dll

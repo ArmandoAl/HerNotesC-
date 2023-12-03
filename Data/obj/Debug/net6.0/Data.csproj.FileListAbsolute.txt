@@ -1,0 +1,51 @@
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\bin\Debug\net6.0\Data.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\bin\Debug\net6.0\Domain.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\Angel\Desktop\5to Semestre\Patrones de Software\Proyecto 1\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\bin\Debug\net6.0\Data.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\bin\Debug\net6.0\Domain.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Escritorio\Proyecto 1\Data\obj\Debug\net6.0\ref\Data.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\bin\Debug\net6.0\Data.deps.json
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\bin\Debug\net6.0\Data.runtimeconfig.json
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\bin\Debug\net6.0\Data.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\bin\Debug\net6.0\Data.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\bin\Debug\net6.0\Domain.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\bin\Debug\net6.0\Domain.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.csproj.CopyComplete
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\refint\Data.dll
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.pdb
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\Data.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Documents\Patrones de Software\Pro1\Data\obj\Debug\net6.0\ref\Data.dll
